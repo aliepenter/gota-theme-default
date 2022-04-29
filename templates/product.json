@@ -49,13 +49,6 @@
           "settings": {
           }
         },
-        "f1eb5d99-84cf-45bf-8adb-50c53604d119": {
-          "type": "shopify:\/\/apps\/blueskytechco\/blocks\/instagram-block\/65d01ae6-c947-4a6d-9205-77a66979c0c4",
-          "settings": {
-            "heading": "Instagram",
-            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
-          }
-        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -108,7 +101,6 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "f1eb5d99-84cf-45bf-8adb-50c53604d119",
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
@@ -221,10 +213,10 @@
         "padding_bottom": 28
       }
     },
-    "1651200049b997b6c8": {
+    "1651200350c4fc18cb": {
       "type": "apps",
       "blocks": {
-        "55885098-6d9e-4591-8dda-f93086bd8b49": {
+        "5a0f0507-0a66-4252-8220-ae898e0d73cf": {
           "type": "shopify:\/\/apps\/blueskytechco\/blocks\/instagram-block\/65d01ae6-c947-4a6d-9205-77a66979c0c4",
           "settings": {
             "heading": "Instagram",
@@ -233,7 +225,7 @@
         }
       },
       "block_order": [
-        "55885098-6d9e-4591-8dda-f93086bd8b49"
+        "5a0f0507-0a66-4252-8220-ae898e0d73cf"
       ],
       "settings": {
         "include_margins": true
@@ -245,6 +237,6 @@
     "image-with-text",
     "multicolumn",
     "product-recommendations",
-    "1651200049b997b6c8"
+    "1651200350c4fc18cb"
   ]
 }
